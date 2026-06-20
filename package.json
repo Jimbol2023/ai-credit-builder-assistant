@@ -1,0 +1,19 @@
+{
+  "name": "ai-credit-builder-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Recruiter-ready AI Credit Builder Assistant portfolio project.",
+  "type": "module",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "build": "npm.cmd --workspace client run build",
+    "test": "npm.cmd --workspace server test",
+    "dev": "npm.cmd --workspace server run dev"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

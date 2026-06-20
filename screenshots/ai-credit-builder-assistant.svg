@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200" role="img" aria-labelledby="title desc">
+  <title id="title">AI Credit Builder Assistant screenshot</title>
+  <desc id="desc">A dashboard-style credit builder assistant with assessment inputs, disclaimer, and a generated 30/60/90 day action plan.</desc>
+  <rect width="1600" height="1200" fill="#eef3f0"/>
+  <g fill="#fff" stroke="#d3ddd9" stroke-width="2">
+    <rect x="54" y="46" width="940" height="260"/>
+    <rect x="1022" y="46" width="520" height="260"/>
+    <rect x="54" y="342" width="500" height="780"/>
+    <rect x="584" y="342" width="958" height="780"/>
+  </g>
+  <rect x="1022" y="46" width="8" height="260" fill="#b15f2a"/>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#15221f">
+    <text x="98" y="100" fill="#1d5f56" font-size="17" font-weight="800">Portfolio Project</text>
+    <text x="98" y="188" font-size="60" font-weight="800">AI Credit Builder Assistant</text>
+    <text x="100" y="236" font-size="22" fill="#43534f">Create an educational 30/60/90 day action plan based on common credit factors,</text>
+    <text x="100" y="266" font-size="22" fill="#43534f">risk areas, and credit-building habits.</text>
+    <text x="1070" y="112" font-size="28" font-weight="800">Important disclaimer</text>
+    <text x="1070" y="156" font-size="22" fill="#43534f">This tool does not provide financial, legal,</text>
+    <text x="1070" y="184" font-size="22" fill="#43534f">credit repair, lending, tax, or professional</text>
+    <text x="1070" y="212" font-size="22" fill="#43534f">advice. Users should consult qualified</text>
+    <text x="1070" y="240" font-size="22" fill="#43534f">professionals before making financial decisions.</text>
+    <text x="92" y="398" fill="#1d5f56" font-size="17" font-weight="800">Assessment</text>
+    <text x="92" y="450" font-size="34" font-weight="800">Credit profile inputs</text>
+  </g>
+  <rect x="420" y="392" width="96" height="32" fill="#dcebe4"/>
+  <text x="440" y="415" font-family="Segoe UI, Arial, sans-serif" fill="#1d5f56" font-size="17" font-weight="800">7/7 done</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g fill="#15221f" font-size="16" font-weight="800">
+      <text x="92" y="508">Current credit score range</text>
+      <text x="92" y="586">Payment history</text>
+      <text x="92" y="664">Credit utilization range</text>
+      <text x="92" y="742">Number of credit accounts</text>
+      <text x="92" y="820">Recent late payments</text>
+      <text x="92" y="898">Credit goal</text>
+      <text x="92" y="976">Timeline</text>
+    </g>
+    <g fill="#fbfdfc" stroke="#d3ddd9" stroke-width="2">
+      <rect x="92" y="520" width="420" height="42"/>
+      <rect x="92" y="598" width="420" height="42"/>
+      <rect x="92" y="676" width="420" height="42"/>
+      <rect x="92" y="754" width="420" height="42"/>
+      <rect x="92" y="832" width="420" height="42"/>
+      <rect x="92" y="910" width="420" height="42"/>
+      <rect x="92" y="988" width="420" height="42"/>
+    </g>
+    <g fill="#43534f" font-size="21">
+      <text x="112" y="548">580-669</text>
+      <text x="112" y="626">Fair: a few missed payments</text>
+      <text x="112" y="704">30-49%</text>
+      <text x="112" y="782">4</text>
+      <text x="112" y="860">One recent late payment</text>
+      <text x="112" y="938">Build my score</text>
+      <text x="112" y="1016">90 days</text>
+    </g>
+  </g>
+  <rect x="92" y="1060" width="420" height="48" fill="#1d5f56"/>
+  <text x="218" y="1092" font-family="Segoe UI, Arial, sans-serif" fill="#fff" font-size="22" font-weight="800">Generate action plan</text>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#15221f">
+    <text x="630" y="398" fill="#1d5f56" font-size="17" font-weight="800">Generated guidance</text>
+    <text x="630" y="450" font-size="34" font-weight="800">Educational credit-building plan</text>
+    <rect x="630" y="476" width="5" height="86" fill="#b15f2a"/>
+    <text x="654" y="499" font-size="21" fill="#43534f">This tool does not provide financial, legal, credit repair, lending, tax, or professional advice.</text>
+    <text x="654" y="528" font-size="21" fill="#43534f">Users should consult qualified professionals before making financial decisions.</text>
+  </g>
+  <g stroke="#d3ddd9" stroke-width="2">
+    <line x1="630" y1="600" x2="1484" y2="600"/>
+    <line x1="630" y1="704" x2="1484" y2="704"/>
+    <line x1="630" y1="808" x2="1484" y2="808"/>
+    <line x1="630" y1="912" x2="1484" y2="912"/>
+    <line x1="630" y1="1016" x2="1484" y2="1016"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g fill="#15221f" font-size="24" font-weight="800">
+      <text x="630" y="640">Credit Profile Summary</text>
+      <text x="630" y="744">Key Credit Factors</text>
+      <text x="630" y="848">Possible Risk Areas</text>
+      <text x="630" y="952">Suggested Next Steps</text>
+      <text x="630" y="1056">30/60/90 Day Action Plan</text>
+    </g>
+    <g fill="#43534f" font-size="21">
+      <text x="656" y="672">Your profile appears focused on building credit over a 90 day timeline.</text>
+      <text x="656" y="776">Score range: 580-669. Payment history: fair. Utilization: 30-49%.</text>
+      <text x="656" y="880">Utilization and recent late payments may be weighing on progress.</text>
+      <text x="656" y="984">Set payment reminders, review reports, and track balances before statement dates.</text>
+    </g>
+  </g>
+  <g fill="#f7faf8" stroke="#d3ddd9" stroke-width="2">
+    <rect x="630" y="1078" width="265" height="92"/>
+    <rect x="922" y="1078" width="265" height="92"/>
+    <rect x="1214" y="1078" width="265" height="92"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#1d5f56" font-size="17" font-weight="800">
+    <text x="650" y="1112">30 Days</text>
+    <text x="942" y="1112">60 Days</text>
+    <text x="1234" y="1112">90 Days</text>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#43534f" font-size="18">
+    <text x="650" y="1144">Review reports and set reminders.</text>
+    <text x="942" y="1144">Track balances and build buffer.</text>
+    <text x="1234" y="1144">Review progress and refresh plan.</text>
+  </g>
+</svg>
